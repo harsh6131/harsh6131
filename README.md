@@ -3,7 +3,7 @@
   <!-- Profile Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Harshvardhan%20Singh%20Jaisawat&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-  <h1>Hi 👋, I'm Harshvardhan Singh Jaisawat</h1>
+  <h1>Hi 👋, I'm Harsh</h1>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
