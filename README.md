@@ -40,12 +40,6 @@
 
   <br><br>
 
-  ⭐ If you like my projects, consider giving them a star.
-
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=harsh6131&style=for-the-badge" alt="Profile Views"/>
-
 </div>
 
 <h2>📊 GitHub Statistics</h2>
