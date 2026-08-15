@@ -1,38 +1,45 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Harshvardhan Singh Jaisawat
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Harshvardhan%20Singh%20Jaisawat&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-### 💻 Computer Science Engineering Student | DSA | Java | Python
+<h3 align="center">
+  💻 Computer Science Engineering Student | DSA | Java | Python
+</h3>
 
-🎓 B.Tech CSE @ VIT Bhopal
+<p align="center">
+  🎓 VIT Bhopal • 🇮🇳 India • 🚀 Building & Learning
+</p>
 
-🚀 Building projects and improving my problem-solving skills.
 
----
 
-## 🧠 About Me
+<h2 align="center">🛠️ Tech Stack</h2>
 
-- 🎓 Computer Science Engineering student
-- 🧩 Practicing Data Structures & Algorithms
-- ☕ Learning Java and Python
-- 🌐 Exploring Web Development
-- 📊 Interested in AI & Data Analysis
-- 🚀 Building practical projects
+<h3 align="center">Languages</h3>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,sql" />
+</p>
 
-## 🛠️ Tech Stack
+<h3 align="center">Web Development</h3>
 
-### Languages
-Java • Python • C++ • SQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
-### Web
-HTML • CSS • JavaScript
+<h3 align="center">Tools & Technologies</h3>
 
-### Tools
-Git • GitHub • VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+</p>
 
----
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh6131&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh6131&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ## 🚀 Featured Projects
 
