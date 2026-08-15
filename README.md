@@ -37,8 +37,7 @@
 <h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh6131&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh6131&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="./profile/stats.svg" />
 </p>
 
 ## 🔥 GitHub Streak
