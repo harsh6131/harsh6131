@@ -7,7 +7,7 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;DSA+Enthusiast;Java+%7C+Python+Developer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Competitive+Programmer;Full-Stack+Developer;Open+Source+Contributor;DSA+Enthusiast;Java+%7C+Python+Developer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 
   <br><br>
