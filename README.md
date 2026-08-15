@@ -65,7 +65,10 @@ My competitive programming solutions.
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/harsh6131
+- 🐙 [GitHub](https://github.com/harsh6131)
+- 🧩 [LeetCode](https://leetcode.com/u/harsxh__6131/)
+- 🚀 [Codeforces](https://codeforces.com/profile/harsh__6131)
+---
 
 <!--
 **harsh6131/harsh6131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
