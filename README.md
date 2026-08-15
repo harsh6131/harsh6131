@@ -1,38 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Harshvardhan%20Singh%20Jaisawat&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+  <!-- Profile Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Harshvardhan%20Singh%20Jaisawat&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<h3 align="center">
-  💻 Computer Science Engineering Student | DSA | Java | Python
-</h3>
+  <h1>Hi 👋, I'm Harshvardhan Singh Jaisawat</h1>
 
-<p align="center">
-  🎓 VIT Bhopal • 🇮🇳 India • 🚀 Building & Learning
-</p>
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;DSA+Enthusiast;Java+%7C+Python+Developer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  </a>
 
+  <br><br>
 
+  <!-- Short Introduction -->
+  <p>
+    🎓 B.Tech CSE @ VIT Bhopal &nbsp; • &nbsp;
+    🇮🇳 India &nbsp; • &nbsp;
+    🚀 Building & Learning
+  </p>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+  <br>
 
-<h3 align="center">Languages</h3>
+  <!-- Social Badges -->
+  <a href="https://github.com/harsh6131">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,sql" />
-</p>
+  <a href="https://www.linkedin.com/in/harshvardhan-singh6131/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-<h3 align="center">Web Development</h3>
+  <a href="https://leetcode.com/u/harsxh__6131/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
+  <a href="https://codeforces.com/profile/harsh__6131">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
 
-<h3 align="center">Tools & Technologies</h3>
+  <br><br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-</p>
+  ⭐ If you like my projects, consider giving them a star.
+
+  <br>
+
+  <img src="https://komarev.com/ghpvc/?username=harsh6131&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 <h2>📊 GitHub Statistics</h2>
 
