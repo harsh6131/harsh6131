@@ -34,13 +34,33 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 </p>
 
-## 📊 GitHub Statistics
+<h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh6131&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh6131&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh6131&show_icons=true&theme=tokyonight" />
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harsh6131&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🧩 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/u/harsxh__6131/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/harsh__6131">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
 ## 🚀 Featured Projects
 
 ### 🎓 CCRM-JAVA
