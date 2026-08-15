@@ -237,22 +237,6 @@ View Profile →
 
 > **Solve → Learn → Optimize → Repeat 🚀**
 
-
-## 🧩 Problem Solving
-
-<p align="center">
-  <a href="https://leetcode.com/u/harsxh__6131/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-
-  <a href="https://codeforces.com/profile/harsh__6131">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-</p>
 ## 🚀 Featured Projects
 
 ### 🎓 CCRM-JAVA
