@@ -42,17 +42,201 @@
 
 </div>
 
-<h2>📊 GitHub Statistics</h2>
+## 🏆 Competitive Programming
 
 <p align="center">
-  <img src="./profile/stats.svg" />
+  <b>As a competitive programmer, I continuously refine my algorithmic problem-solving skills.</b>
 </p>
 
-## 🔥 GitHub Streak
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<!-- ==================== LEETCODE ==================== -->
+<td align="center" width="50%" valign="top">
+
+<h3>🧩 LeetCode</h3>
+
+<a href="https://leetcode.com/u/harsxh__6131/">
+<img
+  src="https://leetcard.jacoblin.cool/harsxh__6131?theme=dark&font=Fira%20Code&ext=activity"
+  alt="LeetCode Stats"
+  width="95%"
+/>
+</a>
+
+</td>
+
+
+<!-- ==================== CODEFORCES ==================== -->
+<td align="center" width="50%" valign="top">
+
+<h3>🔵 Codeforces</h3>
+
+<table width="90%">
+
+<tr>
+<td align="left">Username</td>
+<td align="right"><b>harsh__6131</b></td>
+</tr>
+
+<tr>
+<td align="left">Rank</td>
+<td align="right"><b>Unrated</b></td>
+</tr>
+
+<tr>
+<td align="left">Current Rating</td>
+<td align="right"><b>—</b></td>
+</tr>
+
+<tr>
+<td align="left">Maximum Rating</td>
+<td align="right"><b>—</b></td>
+</tr>
+
+<tr>
+<td align="left">Solved</td>
+<td align="right"><b>5 Problems</b></td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<br>
+<a href="https://codeforces.com/profile/harsh__6131">
+View Profile →
+</a>
+</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<!-- ==================== CODECHEF ==================== -->
+<td align="center" width="50%" valign="top">
+
+<h3>🍴 CodeChef</h3>
+
+<table width="90%">
+
+<tr>
+<td align="left">Username</td>
+<td align="right"><b>—</b></td>
+</tr>
+
+<tr>
+<td align="left">Stars</td>
+<td align="right"><b>—</b></td>
+</tr>
+
+<tr>
+<td align="left">Highest Rating</td>
+<td align="right"><b>—</b></td>
+</tr>
+
+<tr>
+<td align="left">Solved</td>
+<td align="right"><b>— Problems</b></td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<br>
+<a href="#">
+View Profile →
+</a>
+</td>
+</tr>
+
+</table>
+
+</td>
+
+
+<!-- ==================== ATCODER ==================== -->
+<td align="center" width="50%" valign="top">
+
+<h3>🟢 AtCoder</h3>
+
+<table width="90%">
+
+<tr>
+<td align="left">Username</td>
+<td align="right"><b>—</b></td>
+</tr>
+
+<tr>
+<td align="left">Rank</td>
+<td align="right"><b>—</b></td>
+</tr>
+
+<tr>
+<td align="left">Current Rating</td>
+<td align="right"><b>—</b></td>
+</tr>
+
+<tr>
+<td align="left">Highest Rating</td>
+<td align="right"><b>—</b></td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<br>
+<a href="#">
+View Profile →
+</a>
+</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+### 📈 My Progress
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harsh6131&theme=tokyonight&hide_border=true" />
+
+<a href="https://leetcode.com/u/harsxh__6131/">
+<img src="https://img.shields.io/badge/LeetCode-4%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+<a href="https://codeforces.com/profile/harsh__6131">
+<img src="https://img.shields.io/badge/Codeforces-5%20Problems%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+</a>
+
 </p>
+
+<p align="center">
+  <b>🚀 Solve → Learn → Optimize → Repeat</b>
+</p>
+
+---
+
+### 📌 Current Focus
+
+* 🧠 Data Structures & Algorithms
+* ⚡ Competitive Programming
+* 🔍 Problem Solving
+* 🎯 Coding Interviews
+* 📈 Consistent Practice
+
+> **Solve → Learn → Optimize → Repeat 🚀**
+
 
 ## 🧩 Problem Solving
 
