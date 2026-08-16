@@ -60,7 +60,7 @@
 
 <a href="https://leetcode.com/u/harsxh__6131/">
 <img
-  src="https://leetcard.jacoblin.cool/harsxh__6131?theme=dark&font=Fira%20Code&ext=activity"
+  src="https://leetcard.jacoblin.cool/harsxh__6131?theme=white&font=Fira%20Code&ext=activity"
   alt="LeetCode Stats"
   width="95%"
 />
