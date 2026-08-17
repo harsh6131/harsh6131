@@ -21,6 +21,34 @@
 
   <br>
 
+  ## 🚀 About Me
+
+```yaml
+name: Harshvardhan Singh Jaisawat
+role: CS Engineer & Developer
+education: B.Tech CSE @ VIT Bhopal
+
+focus:
+  - Artificial Intelligence & Machine Learning
+  - Data Structures & Algorithms
+  - Competitive Programming
+  - Software Development
+
+currently_building:
+  - SwachhVan
+  - AI/ML Projects
+  - Full-Stack Applications
+
+currently_learning:
+  - Machine Learning
+  - Java
+  - Python
+  - DBMS & SQL
+  - Web Development
+
+philosophy: Build → Learn → Ship → Repeat
+
+```
   <!-- Social Badges -->
 
   <a href="https://www.linkedin.com/in/harshvardhan-singh6131/">
@@ -119,7 +147,6 @@ View Profile →
 
 
 <tr>
-
 <!-- ==================== CODECHEF ==================== -->
 <td align="center" width="50%" valign="top">
 
