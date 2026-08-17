@@ -3,9 +3,6 @@
   <!-- Profile Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Harshvardhan%20Singh%20Jaisawat&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-  <h1>Hi 👋, I'm Harsh</h1>
-
-  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Competitive+Programmer;Full-Stack+Developer;Open+Source+Contributor;DSA+Enthusiast;Java+%7C+Python+Developer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
