@@ -94,53 +94,20 @@ philosophy: Build → Learn → Ship → Repeat
 
 </td>
 
-
 <!-- ==================== CODEFORCES ==================== -->
 <td align="center" width="50%" valign="top">
 
 <h3>🔵 Codeforces</h3>
 
-<table width="90%">
-
-<tr>
-<td align="left">Username</td>
-<td align="right"><b>harsh__6131</b></td>
-</tr>
-
-<tr>
-<td align="left">Rank</td>
-<td align="right"><b>Unrated</b></td>
-</tr>
-
-<tr>
-<td align="left">Current Rating</td>
-<td align="right"><b>—</b></td>
-</tr>
-
-<tr>
-<td align="left">Maximum Rating</td>
-<td align="right"><b>—</b></td>
-</tr>
-
-<tr>
-<td align="left">Solved</td>
-<td align="right"><b>5 Problems</b></td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-<br>
 <a href="https://codeforces.com/profile/harsh__6131">
-View Profile →
+<img
+  src="https://codeforces-readme-stats.vercel.app/api/card?username=harsh__6131"
+  alt="Codeforces Stats"
+  width="95%"
+/>
 </a>
-</td>
-</tr>
-
-</table>
 
 </td>
-
-</tr>
 
 
 <tr>
@@ -237,11 +204,11 @@ View Profile →
 <p align="center">
 
 <a href="https://leetcode.com/u/harsxh__6131/">
-<img src="https://img.shields.io/badge/LeetCode-4%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/LeetCode-6%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
 <a href="https://codeforces.com/profile/harsh__6131">
-<img src="https://img.shields.io/badge/Codeforces-5%20Problems%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+<img src="https://img.shields.io/badge/Codeforces-6%20Problems%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
 </a>
 
 </p>
