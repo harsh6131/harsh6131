@@ -119,12 +119,6 @@ philosophy: Build → Learn → Ship → Repeat
 
 ---
 
-<p align="center">
-  <b>🚀 Solve → Learn → Optimize → Repeat</b>
-</p>
-
-
-
 
 <h2 align="center">~/ contribution calendar</h2>
 
