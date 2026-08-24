@@ -1,13 +1,43 @@
 <div align="center">
 
-  <!-- Profile Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Harshvardhan%20Singh%20Jaisawat&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<!-- Dot Matrix Portrait -->
+<img src="./portrait.png" width="500"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Competitive+Programmer;Full-Stack+Developer;Open+Source+Contributor;DSA+Enthusiast;Java+%7C+Python+Developer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
-  </a>
+<br>
 
-  <br><br>
+<a href="https://github.com/harsh6131">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Harshvardhan+Singh;Competitive+Programmer;Machine+Learning+%26+Web+Dev;01100011+01101111+01100100+01100101" alt="typing banner">
+</a>
+
+<br>
+
+
+
+<br>
+
+<a href="https://www.linkedin.com/in/harshvardhan-singh6131/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:singhharsh6131@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/harsh__6131">
+  <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/harsxh__6131/">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br><br>
+
+</div>
 
   <!-- Short Introduction -->
   <p>
@@ -46,25 +76,7 @@ currently_learning:
 philosophy: Build → Learn → Ship → Repeat
 
 ```
-  <!-- Social Badges -->
 
-  <a href="https://www.linkedin.com/in/harshvardhan-singh6131/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:singhharsh6131@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/u/harsxh__6131/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-
-  <a href="https://codeforces.com/profile/harsh__6131">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-
-  <br><br>
 
 </div>
 
