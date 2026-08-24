@@ -39,15 +39,6 @@
 
 </div>
 
-  <!-- Short Introduction -->
-  <p>
-    🎓 B.Tech CSE @ VIT Bhopal &nbsp; • &nbsp;
-    🇮🇳 India &nbsp; • &nbsp;
-    🚀 Building & Learning
-  </p>
-
-  <br>
-
   ## 🚀 About Me
 
 ```yaml
