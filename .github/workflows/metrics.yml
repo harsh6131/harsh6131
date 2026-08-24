@@ -1,0 +1,32 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: harsh6131
+
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 7
+
+          plugin_achievements: yes
+          plugin_achievements_display: compact
