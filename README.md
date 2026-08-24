@@ -237,6 +237,15 @@ My competitive programming solutions.
 
 ---
 
+<div align="center">
+  <img
+    src="./profile-3d-contrib/profile-green.svg"
+    width="100%"
+    alt="3D Contribution Calendar"
+  />
+</div>
+
+
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms
