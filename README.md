@@ -208,14 +208,17 @@ View Profile →
 
 ---
 
+<hr>
+
+<h2 align="center">~/ contribution calendar</h2>
+
 <div align="center">
   <img
-    src="./profile-3d-contrib/profile-green.svg"
+    src="./profile-3d-contrib/profile-night-green.svg"
     width="100%"
     alt="3D Contribution Calendar"
   />
 </div>
-
 
 
 ### 📌 Current Focus
