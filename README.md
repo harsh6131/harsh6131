@@ -208,6 +208,16 @@ View Profile →
 
 ---
 
+<div align="center">
+  <img
+    src="./profile-3d-contrib/profile-green.svg"
+    width="100%"
+    alt="3D Contribution Calendar"
+  />
+</div>
+
+
+
 ### 📌 Current Focus
 
 * 🧠 Data Structures & Algorithms
@@ -236,14 +246,6 @@ My Data Structures & Algorithms practice.
 My competitive programming solutions.
 
 ---
-
-<div align="center">
-  <img
-    src="./profile-3d-contrib/profile-green.svg"
-    width="100%"
-    alt="3D Contribution Calendar"
-  />
-</div>
 
 
 ## 📚 Currently Learning
