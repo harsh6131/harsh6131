@@ -112,89 +112,6 @@ philosophy: Build → Learn → Ship → Repeat
 
 </td>
 
-
-<tr>
-<!-- ==================== CODECHEF ==================== -->
-<td align="center" width="50%" valign="top">
-
-<h3>🍴 CodeChef</h3>
-
-<table width="90%">
-
-<tr>
-<td align="left">Username</td>
-<td align="right"><b>—</b></td>
-</tr>
-
-<tr>
-<td align="left">Stars</td>
-<td align="right"><b>—</b></td>
-</tr>
-
-<tr>
-<td align="left">Highest Rating</td>
-<td align="right"><b>—</b></td>
-</tr>
-
-<tr>
-<td align="left">Solved</td>
-<td align="right"><b>— Problems</b></td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-<br>
-<a href="#">
-View Profile →
-</a>
-</td>
-</tr>
-
-</table>
-
-</td>
-
-
-<!-- ==================== ATCODER ==================== -->
-<td align="center" width="50%" valign="top">
-
-<h3>🟢 AtCoder</h3>
-
-<table width="90%">
-
-<tr>
-<td align="left">Username</td>
-<td align="right"><b>—</b></td>
-</tr>
-
-<tr>
-<td align="left">Rank</td>
-<td align="right"><b>—</b></td>
-</tr>
-
-<tr>
-<td align="left">Current Rating</td>
-<td align="right"><b>—</b></td>
-</tr>
-
-<tr>
-<td align="left">Highest Rating</td>
-<td align="right"><b>—</b></td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-<br>
-<a href="#">
-View Profile →
-</a>
-</td>
-</tr>
-
-</table>
-
-</td>
-
 </tr>
 </table>
 
@@ -206,9 +123,8 @@ View Profile →
   <b>🚀 Solve → Learn → Optimize → Repeat</b>
 </p>
 
----
 
-<hr>
+
 
 <h2 align="center">~/ contribution calendar</h2>
 
