@@ -120,7 +120,7 @@ philosophy: Build → Learn → Ship → Repeat
 ---
 
 
-<h2 align="center">~/ contribution calendar</h2>
+<h2 align="center"> Contribution Calendar</h2>
 
 <div align="center">
   <img
@@ -130,21 +130,8 @@ philosophy: Build → Learn → Ship → Repeat
   />
 </div>
 
-<hr>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
-</picture>
-
-<br>
-
-<img src="assets/metrics.languages.svg" height="165" alt="Most used languages">
-
-<br><br>
-
-<img src="assets/metrics.achievements.svg" width="90%" alt="GitHub achievements">
 
 ### 📌 Current Focus
 
