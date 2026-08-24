@@ -202,20 +202,6 @@ View Profile →
 
 ---
 
-### 📈 My Progress
-
-<p align="center">
-
-<a href="https://leetcode.com/u/harsxh__6131/">
-<img src="https://img.shields.io/badge/LeetCode-6%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
-
-<a href="https://codeforces.com/profile/harsh__6131">
-<img src="https://img.shields.io/badge/Codeforces-6%20Problems%20Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
-</a>
-
-</p>
-
 <p align="center">
   <b>🚀 Solve → Learn → Optimize → Repeat</b>
 </p>
