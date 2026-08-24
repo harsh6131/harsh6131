@@ -5,12 +5,12 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Generate GitHub Metrics
@@ -22,6 +22,7 @@ jobs:
           user: harsh6131
 
           template: classic
+
           base: header, activity, community, repositories, metadata
 
           plugin_languages: yes
