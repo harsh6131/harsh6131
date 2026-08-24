@@ -132,19 +132,6 @@ philosophy: Build → Learn → Ship → Repeat
 
 <hr>
 
-<h2 align="center">~/ the numbers</h2>
-
-<div align="center">
-
-<img
-  src="./github-metrics.svg"
-  width="100%"
-  alt="GitHub Metrics"
-/>
-
-</div>
-
-
 ### 📌 Current Focus
 
 * 🧠 Data Structures & Algorithms
