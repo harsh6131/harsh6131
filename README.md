@@ -192,12 +192,33 @@ My competitive programming solutions.
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-- 🐙 [GitHub](https://github.com/harsh6131)
-- 🧩 [LeetCode](https://leetcode.com/u/harsxh__6131/)
-- 🚀 [Codeforces](https://codeforces.com/profile/harsh__6131)
----
+```text
+┌──────────────────────────────────────────────┐
+│   Let's connect and build something real.   │
+└──────────────────────────────────────────────┘
+```
+
+<a href="https://www.linkedin.com/in/harshvardhan-singh6131//" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="58" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/harsh6131" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="58" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:singhharsh6131@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/96/gmail-new.png" width="58" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/harsxh___06/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="58" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<br><br>
+
 
 <!--
 **harsh6131/harsh6131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
