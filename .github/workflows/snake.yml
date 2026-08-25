@@ -1,29 +1,33 @@
-name: Update GitHub Stats
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: harsh6131
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit Stats
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/stats.svg
-          git commit -m "Update GitHub stats" || exit 0
-          git push
+      - name: Deploy Snake
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
