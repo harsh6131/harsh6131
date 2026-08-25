@@ -131,6 +131,25 @@ philosophy: Build → Learn → Ship → Repeat
 </div>
 
 ---
+<!-- Snake Contribution Graph -->
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/harsh6131/harsh6131/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/harsh6131/harsh6131/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/harsh6131/harsh6131/output/github-snake.svg"
+      width="100%"
+      alt="Snake eating GitHub contribution graph"
+    />
+  </picture>
+</p>
 
 
 ### 📌 Current Focus
