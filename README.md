@@ -85,7 +85,7 @@ philosophy: Build → Learn → Ship → Repeat
 <!-- ==================== LEETCODE ==================== -->
 <td align="center" width="50%" valign="top">
 
-<h3>🧩 LeetCode</h3>
+<h3> LeetCode</h3>
 
 <a href="https://leetcode.com/u/harsxh__6131/">
 <img
@@ -100,7 +100,7 @@ philosophy: Build → Learn → Ship → Repeat
 <!-- ==================== CODEFORCES ==================== -->
 <td align="center" width="50%" valign="top">
 
-<h3>🧩 Codeforces</h3>
+<h3> Codeforces</h3>
 
 <a href="https://codeforces.com/profile/harsh__6131">
 <img
