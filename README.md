@@ -196,7 +196,7 @@ My competitive programming solutions.
 
 ```text
 ┌──────────────────────────────────────────────┐
-│   Let's connect and build something real.         │
+│   Let's connect and build something real.           │
 └──────────────────────────────────────────────┘
 ```
 
